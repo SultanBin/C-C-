@@ -3,6 +3,6 @@
 void main()
 
 {
-printf("This is Number Two: %d", 2);
-getch();
+  printf("This is Number Two: %d", 2);
+  getch();
 }
